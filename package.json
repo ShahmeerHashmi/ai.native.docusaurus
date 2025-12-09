@@ -4,7 +4,7 @@
   "description": "Textbook structure generator for Physical AI & Humanoid Robotics course",
   "main": "dist/index.js",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "scripts": {
     "docusaurus": "docusaurus",
