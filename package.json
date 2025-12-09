@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Textbook structure generator for Physical AI & Humanoid Robotics course",
   "main": "dist/index.js",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "node ./node_modules/@docusaurus/core/bin/docusaurus.js start",
-    "build": "node ./scripts/docusaurus-build.mjs",
+    "build": "node ./scripts/docusaurus-build.cjs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
