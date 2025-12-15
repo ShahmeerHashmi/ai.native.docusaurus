@@ -5,7 +5,7 @@
   "source": "@site/docs/nvidia-isaac.md",
   "sourceDirName": ".",
   "slug": "/nvidia-isaac",
-  "permalink": "/physical-ai-humanoid-robotics/docs/nvidia-isaac",
+  "permalink": "/docs/nvidia-isaac",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nvidia-isaac.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Gazebo & Unity",
-    "permalink": "/physical-ai-humanoid-robotics/docs/gazebo-unity"
+    "permalink": "/docs/gazebo-unity"
   },
   "next": {
     "title": "Humanoid Robotics",
-    "permalink": "/physical-ai-humanoid-robotics/docs/humanoid-robotics"
+    "permalink": "/docs/humanoid-robotics"
   }
 }

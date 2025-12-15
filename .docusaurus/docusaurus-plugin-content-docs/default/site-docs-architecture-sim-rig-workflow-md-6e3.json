@@ -5,7 +5,7 @@
   "source": "@site/docs/architecture/sim-rig-workflow.md",
   "sourceDirName": "architecture",
   "slug": "/architecture/sim-rig-workflow",
-  "permalink": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow",
+  "permalink": "/docs/architecture/sim-rig-workflow",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/sim-rig-workflow.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Jetson Edge Kit",
-    "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit"
+    "permalink": "/docs/hardware/jetson-edge-kit"
   },
   "next": {
     "title": "Edge Backend",
-    "permalink": "/physical-ai-humanoid-robotics/docs/architecture/edge-backend"
+    "permalink": "/docs/architecture/edge-backend"
   }
 }

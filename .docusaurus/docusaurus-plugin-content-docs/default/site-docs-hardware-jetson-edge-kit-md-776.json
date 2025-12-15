@@ -5,7 +5,7 @@
   "source": "@site/docs/hardware/jetson-edge-kit.md",
   "sourceDirName": "hardware",
   "slug": "/hardware/jetson-edge-kit",
-  "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit",
+  "permalink": "/docs/hardware/jetson-edge-kit",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware/jetson-edge-kit.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Digital Twin Workstation",
-    "permalink": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation"
+    "permalink": "/docs/hardware/digital-twin-workstation"
   },
   "next": {
     "title": "Sim Rig Workflow",
-    "permalink": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow"
+    "permalink": "/docs/architecture/sim-rig-workflow"
   }
 }

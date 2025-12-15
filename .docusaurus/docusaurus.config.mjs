@@ -8,7 +8,7 @@ export default {
   "tagline": "A comprehensive textbook on Physical AI and Humanoid Robotics",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/physical-ai-humanoid-robotics/",
+  "baseUrl": "/",
   "organizationName": "SpecKitPlus",
   "projectName": "physical-ai-humanoid-robotics",
   "onBrokenLinks": "throw",

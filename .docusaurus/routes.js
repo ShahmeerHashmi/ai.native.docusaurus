@@ -3,110 +3,145 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/physical-ai-humanoid-robotics/docs',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/docs', '6a0'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '699'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', 'f19'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'c90'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '1f3'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '67d'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', 'd6d'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', 'abf'),
+    exact: true
+  },
+  {
+    path: '/docs',
+    component: ComponentCreator('/docs', '648'),
     routes: [
       {
-        path: '/physical-ai-humanoid-robotics/docs',
-        component: ComponentCreator('/physical-ai-humanoid-robotics/docs', 'abe'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '4a3'),
         routes: [
           {
-            path: '/physical-ai-humanoid-robotics/docs',
-            component: ComponentCreator('/physical-ai-humanoid-robotics/docs', '1ca'),
+            path: '/docs',
+            component: ComponentCreator('/docs', 'de4'),
             routes: [
               {
-                path: '/physical-ai-humanoid-robotics/docs/architecture/edge-backend',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/architecture/edge-backend', 'cc1'),
+                path: '/docs/architecture/edge-backend',
+                component: ComponentCreator('/docs/architecture/edge-backend', '220'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow', '631'),
+                path: '/docs/architecture/sim-rig-workflow',
+                component: ComponentCreator('/docs/architecture/sim-rig-workflow', '668'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid', '3ff'),
+                path: '/docs/assessments/capstone-humanoid',
+                component: ComponentCreator('/docs/assessments/capstone-humanoid', '660'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/assessments/gazebo-project',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/assessments/gazebo-project', 'c64'),
+                path: '/docs/assessments/gazebo-project',
+                component: ComponentCreator('/docs/assessments/gazebo-project', '0a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline', '0ac'),
+                path: '/docs/assessments/isaac-pipeline',
+                component: ComponentCreator('/docs/assessments/isaac-pipeline', '3aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/assessments/ros-project',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/assessments/ros-project', '826'),
+                path: '/docs/assessments/ros-project',
+                component: ComponentCreator('/docs/assessments/ros-project', '9ef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/conversational-robotics',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/conversational-robotics', 'a57'),
+                path: '/docs/conversational-robotics',
+                component: ComponentCreator('/docs/conversational-robotics', '007'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/foundations',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/foundations', '707'),
+                path: '/docs/foundations',
+                component: ComponentCreator('/docs/foundations', '09f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/gazebo-unity',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/gazebo-unity', '274'),
+                path: '/docs/gazebo-unity',
+                component: ComponentCreator('/docs/gazebo-unity', 'b72'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation', '7a4'),
+                path: '/docs/hardware/digital-twin-workstation',
+                component: ComponentCreator('/docs/hardware/digital-twin-workstation', '9a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit', '9a0'),
+                path: '/docs/hardware/jetson-edge-kit',
+                component: ComponentCreator('/docs/hardware/jetson-edge-kit', '391'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/humanoid-robotics',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/humanoid-robotics', 'e2f'),
+                path: '/docs/humanoid-robotics',
+                component: ComponentCreator('/docs/humanoid-robotics', '69d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/intro',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/intro', '4e2'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/introduction',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/introduction', 'b5b'),
+                path: '/docs/introduction',
+                component: ComponentCreator('/docs/introduction', '457'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/nvidia-isaac',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/nvidia-isaac', 'c0e'),
+                path: '/docs/nvidia-isaac',
+                component: ComponentCreator('/docs/nvidia-isaac', '337'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/physical-ai-humanoid-robotics/docs/ros2',
-                component: ComponentCreator('/physical-ai-humanoid-robotics/docs/ros2', '785'),
+                path: '/docs/ros2',
+                component: ComponentCreator('/docs/ros2', '7c3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -117,8 +152,8 @@ export default [
     ]
   },
   {
-    path: '/physical-ai-humanoid-robotics/',
-    component: ComponentCreator('/physical-ai-humanoid-robotics/', '367'),
+    path: '/',
+    component: ComponentCreator('/', 'f6f'),
     exact: true
   },
   {

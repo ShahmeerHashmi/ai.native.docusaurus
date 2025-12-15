@@ -5,7 +5,7 @@
   "source": "@site/docs/foundations.md",
   "sourceDirName": ".",
   "slug": "/foundations",
-  "permalink": "/physical-ai-humanoid-robotics/docs/foundations",
+  "permalink": "/docs/foundations",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/physical-ai-humanoid-robotics/docs/introduction"
+    "permalink": "/docs/introduction"
   },
   "next": {
     "title": "ROS 2",
-    "permalink": "/physical-ai-humanoid-robotics/docs/ros2"
+    "permalink": "/docs/ros2"
   }
 }

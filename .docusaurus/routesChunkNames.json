@@ -1,86 +1,129 @@
 {
-  "/physical-ai-humanoid-robotics/docs-6a0": {
-    "__comp": "5e95c892",
+  "/__docusaurus/debug-699": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "8a0815a0"
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
     }
   },
-  "/physical-ai-humanoid-robotics/docs-abe": {
-    "__comp": "a7bd4aaa",
-    "version": "935f2afb"
-  },
-  "/physical-ai-humanoid-robotics/docs-1ca": {
-    "__comp": "a94703ab"
-  },
-  "/physical-ai-humanoid-robotics/docs/architecture/edge-backend-cc1": {
-    "__comp": "17896441",
-    "content": "12e436a7"
-  },
-  "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow-631": {
-    "__comp": "17896441",
-    "content": "6e3b6652"
-  },
-  "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid-3ff": {
-    "__comp": "17896441",
-    "content": "b8d3cad1"
-  },
-  "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project-c64": {
-    "__comp": "17896441",
-    "content": "96089f4a"
-  },
-  "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline-0ac": {
-    "__comp": "17896441",
-    "content": "2cfc157c"
-  },
-  "/physical-ai-humanoid-robotics/docs/assessments/ros-project-826": {
-    "__comp": "17896441",
-    "content": "50f773f4"
-  },
-  "/physical-ai-humanoid-robotics/docs/conversational-robotics-a57": {
-    "__comp": "17896441",
-    "content": "fdf672fc"
-  },
-  "/physical-ai-humanoid-robotics/docs/foundations-707": {
-    "__comp": "17896441",
-    "content": "b15cc1c6"
-  },
-  "/physical-ai-humanoid-robotics/docs/gazebo-unity-274": {
-    "__comp": "17896441",
-    "content": "c8c1578b"
-  },
-  "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation-7a4": {
-    "__comp": "17896441",
-    "content": "a76cfca6"
-  },
-  "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit-9a0": {
-    "__comp": "17896441",
-    "content": "776448b9"
-  },
-  "/physical-ai-humanoid-robotics/docs/humanoid-robotics-e2f": {
-    "__comp": "17896441",
-    "content": "4bffc7b0"
-  },
-  "/physical-ai-humanoid-robotics/docs/intro-4e2": {
-    "__comp": "17896441",
-    "content": "0e384e19"
-  },
-  "/physical-ai-humanoid-robotics/docs/introduction-b5b": {
-    "__comp": "17896441",
-    "content": "a09c2993"
-  },
-  "/physical-ai-humanoid-robotics/docs/nvidia-isaac-c0e": {
-    "__comp": "17896441",
-    "content": "29c10eac"
-  },
-  "/physical-ai-humanoid-robotics/docs/ros2-785": {
-    "__comp": "17896441",
-    "content": "051702c9"
-  },
-  "/physical-ai-humanoid-robotics/-367": {
-    "__comp": "1df93b7f",
+  "/__docusaurus/debug/config-f19": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "4c86e694"
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
+    }
+  },
+  "/__docusaurus/debug/content-c90": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
     },
-    "config": "5e9f5e1a"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-1f3": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
+    }
+  },
+  "/__docusaurus/debug/metadata-67d": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
+    }
+  },
+  "/__docusaurus/debug/registry-d6d": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
+    }
+  },
+  "/__docusaurus/debug/routes-abf": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-7-e-2-f31"
+    }
+  },
+  "/docs-648": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-1-ad-aae"
+    }
+  },
+  "/docs-4a3": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-de4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/architecture/edge-backend-220": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-edge-backend-12-e-5ae"
+  },
+  "/docs/architecture/sim-rig-workflow-668": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-sim-rig-workflow-6-e-3-df2"
+  },
+  "/docs/assessments/capstone-humanoid-660": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-assessments-capstone-humanoidb-8-d-c93"
+  },
+  "/docs/assessments/gazebo-project-0a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-assessments-gazebo-project-960-fdf"
+  },
+  "/docs/assessments/isaac-pipeline-3aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-assessments-isaac-pipeline-2-cf-fa4"
+  },
+  "/docs/assessments/ros-project-9ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-assessments-ros-project-50-f-680"
+  },
+  "/docs/conversational-robotics-007": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-conversational-roboticsfdf-781"
+  },
+  "/docs/foundations-09f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-foundationsb-15-536"
+  },
+  "/docs/gazebo-unity-b72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-gazebo-unityc-8-c-2fc"
+  },
+  "/docs/hardware/digital-twin-workstation-9a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-hardware-digital-twin-workstationa-76-9d5"
+  },
+  "/docs/hardware/jetson-edge-kit-391": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-hardware-jetson-edge-kit-776-00c"
+  },
+  "/docs/humanoid-robotics-69d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-humanoid-robotics-4-bf-e15"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/introduction-457": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introductiona-09-6b4"
+  },
+  "/docs/nvidia-isaac-337": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-nvidia-isaac-29-c-ecc"
+  },
+  "/docs/ros2-7c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ros-2051-b0b"
+  },
+  "/-f6f": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---b-18-073"
+    },
+    "config": "config---5-e-9-4f3"
   }
 }

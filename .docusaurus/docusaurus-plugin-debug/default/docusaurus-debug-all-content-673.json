@@ -9,15 +9,15 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/physical-ai-humanoid-robotics/docs",
-          "tagsPath": "/physical-ai-humanoid-robotics/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "D:\\Client-Work\\hackathon\\project-my\\sidebars.js",
-          "contentPath": "D:\\Client-Work\\hackathon\\project-my\\docs",
-          "contentPathLocalized": "D:\\Client-Work\\hackathon\\project-my\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "D:\\New folder\\ai-textbook\\sidebars.js",
+          "contentPath": "D:\\New folder\\ai-textbook\\docs",
+          "contentPathLocalized": "D:\\New folder\\ai-textbook\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "id": "architecture/edge-backend",
@@ -26,7 +26,7 @@
               "source": "@site/docs/architecture/edge-backend.md",
               "sourceDirName": "architecture",
               "slug": "/architecture/edge-backend",
-              "permalink": "/physical-ai-humanoid-robotics/docs/architecture/edge-backend",
+              "permalink": "/docs/architecture/edge-backend",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/edge-backend.md",
@@ -39,7 +39,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Sim Rig Workflow",
-                "permalink": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow"
+                "permalink": "/docs/architecture/sim-rig-workflow"
               }
             },
             {
@@ -49,7 +49,7 @@
               "source": "@site/docs/architecture/sim-rig-workflow.md",
               "sourceDirName": "architecture",
               "slug": "/architecture/sim-rig-workflow",
-              "permalink": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow",
+              "permalink": "/docs/architecture/sim-rig-workflow",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/architecture/sim-rig-workflow.md",
@@ -62,11 +62,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Jetson Edge Kit",
-                "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit"
+                "permalink": "/docs/hardware/jetson-edge-kit"
               },
               "next": {
                 "title": "Edge Backend",
-                "permalink": "/physical-ai-humanoid-robotics/docs/architecture/edge-backend"
+                "permalink": "/docs/architecture/edge-backend"
               }
             },
             {
@@ -76,7 +76,7 @@
               "source": "@site/docs/assessments/capstone-humanoid.md",
               "sourceDirName": "assessments",
               "slug": "/assessments/capstone-humanoid",
-              "permalink": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid",
+              "permalink": "/docs/assessments/capstone-humanoid",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assessments/capstone-humanoid.md",
@@ -89,11 +89,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Isaac Pipeline",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline"
+                "permalink": "/docs/assessments/isaac-pipeline"
               },
               "next": {
                 "title": "Digital Twin Workstation",
-                "permalink": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation"
+                "permalink": "/docs/hardware/digital-twin-workstation"
               }
             },
             {
@@ -103,7 +103,7 @@
               "source": "@site/docs/assessments/gazebo-project.md",
               "sourceDirName": "assessments",
               "slug": "/assessments/gazebo-project",
-              "permalink": "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project",
+              "permalink": "/docs/assessments/gazebo-project",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assessments/gazebo-project.md",
@@ -116,11 +116,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "ROS 2 Project",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/ros-project"
+                "permalink": "/docs/assessments/ros-project"
               },
               "next": {
                 "title": "Isaac Pipeline",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline"
+                "permalink": "/docs/assessments/isaac-pipeline"
               }
             },
             {
@@ -130,7 +130,7 @@
               "source": "@site/docs/assessments/isaac-pipeline.md",
               "sourceDirName": "assessments",
               "slug": "/assessments/isaac-pipeline",
-              "permalink": "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline",
+              "permalink": "/docs/assessments/isaac-pipeline",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assessments/isaac-pipeline.md",
@@ -143,11 +143,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Gazebo Project",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project"
+                "permalink": "/docs/assessments/gazebo-project"
               },
               "next": {
                 "title": "Capstone Humanoid Robot",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid"
+                "permalink": "/docs/assessments/capstone-humanoid"
               }
             },
             {
@@ -157,7 +157,7 @@
               "source": "@site/docs/assessments/ros-project.md",
               "sourceDirName": "assessments",
               "slug": "/assessments/ros-project",
-              "permalink": "/physical-ai-humanoid-robotics/docs/assessments/ros-project",
+              "permalink": "/docs/assessments/ros-project",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/assessments/ros-project.md",
@@ -170,11 +170,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Conversational Robotics",
-                "permalink": "/physical-ai-humanoid-robotics/docs/conversational-robotics"
+                "permalink": "/docs/conversational-robotics"
               },
               "next": {
                 "title": "Gazebo Project",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project"
+                "permalink": "/docs/assessments/gazebo-project"
               }
             },
             {
@@ -184,7 +184,7 @@
               "source": "@site/docs/conversational-robotics.md",
               "sourceDirName": ".",
               "slug": "/conversational-robotics",
-              "permalink": "/physical-ai-humanoid-robotics/docs/conversational-robotics",
+              "permalink": "/docs/conversational-robotics",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/conversational-robotics.md",
@@ -197,11 +197,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Humanoid Robotics",
-                "permalink": "/physical-ai-humanoid-robotics/docs/humanoid-robotics"
+                "permalink": "/docs/humanoid-robotics"
               },
               "next": {
                 "title": "ROS 2 Project",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/ros-project"
+                "permalink": "/docs/assessments/ros-project"
               }
             },
             {
@@ -211,7 +211,7 @@
               "source": "@site/docs/foundations.md",
               "sourceDirName": ".",
               "slug": "/foundations",
-              "permalink": "/physical-ai-humanoid-robotics/docs/foundations",
+              "permalink": "/docs/foundations",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/foundations.md",
@@ -224,11 +224,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/physical-ai-humanoid-robotics/docs/introduction"
+                "permalink": "/docs/introduction"
               },
               "next": {
                 "title": "ROS 2",
-                "permalink": "/physical-ai-humanoid-robotics/docs/ros2"
+                "permalink": "/docs/ros2"
               }
             },
             {
@@ -238,7 +238,7 @@
               "source": "@site/docs/gazebo-unity.md",
               "sourceDirName": ".",
               "slug": "/gazebo-unity",
-              "permalink": "/physical-ai-humanoid-robotics/docs/gazebo-unity",
+              "permalink": "/docs/gazebo-unity",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gazebo-unity.md",
@@ -251,11 +251,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "ROS 2",
-                "permalink": "/physical-ai-humanoid-robotics/docs/ros2"
+                "permalink": "/docs/ros2"
               },
               "next": {
                 "title": "NVIDIA Isaac",
-                "permalink": "/physical-ai-humanoid-robotics/docs/nvidia-isaac"
+                "permalink": "/docs/nvidia-isaac"
               }
             },
             {
@@ -265,7 +265,7 @@
               "source": "@site/docs/hardware/digital-twin-workstation.md",
               "sourceDirName": "hardware",
               "slug": "/hardware/digital-twin-workstation",
-              "permalink": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation",
+              "permalink": "/docs/hardware/digital-twin-workstation",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware/digital-twin-workstation.md",
@@ -278,11 +278,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Capstone Humanoid Robot",
-                "permalink": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid"
+                "permalink": "/docs/assessments/capstone-humanoid"
               },
               "next": {
                 "title": "Jetson Edge Kit",
-                "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit"
+                "permalink": "/docs/hardware/jetson-edge-kit"
               }
             },
             {
@@ -292,7 +292,7 @@
               "source": "@site/docs/hardware/jetson-edge-kit.md",
               "sourceDirName": "hardware",
               "slug": "/hardware/jetson-edge-kit",
-              "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit",
+              "permalink": "/docs/hardware/jetson-edge-kit",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware/jetson-edge-kit.md",
@@ -305,11 +305,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Digital Twin Workstation",
-                "permalink": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation"
+                "permalink": "/docs/hardware/digital-twin-workstation"
               },
               "next": {
                 "title": "Sim Rig Workflow",
-                "permalink": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow"
+                "permalink": "/docs/architecture/sim-rig-workflow"
               }
             },
             {
@@ -319,7 +319,7 @@
               "source": "@site/docs/humanoid-robotics.md",
               "sourceDirName": ".",
               "slug": "/humanoid-robotics",
-              "permalink": "/physical-ai-humanoid-robotics/docs/humanoid-robotics",
+              "permalink": "/docs/humanoid-robotics",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/humanoid-robotics.md",
@@ -332,11 +332,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "NVIDIA Isaac",
-                "permalink": "/physical-ai-humanoid-robotics/docs/nvidia-isaac"
+                "permalink": "/docs/nvidia-isaac"
               },
               "next": {
                 "title": "Conversational Robotics",
-                "permalink": "/physical-ai-humanoid-robotics/docs/conversational-robotics"
+                "permalink": "/docs/conversational-robotics"
               }
             },
             {
@@ -346,7 +346,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/physical-ai-humanoid-robotics/docs/intro",
+              "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
@@ -359,7 +359,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Introduction",
-                "permalink": "/physical-ai-humanoid-robotics/docs/introduction"
+                "permalink": "/docs/introduction"
               }
             },
             {
@@ -369,7 +369,7 @@
               "source": "@site/docs/introduction.md",
               "sourceDirName": ".",
               "slug": "/introduction",
-              "permalink": "/physical-ai-humanoid-robotics/docs/introduction",
+              "permalink": "/docs/introduction",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction.md",
@@ -382,11 +382,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to Physical AI & Humanoid Robotics",
-                "permalink": "/physical-ai-humanoid-robotics/docs/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Foundations of Physical AI",
-                "permalink": "/physical-ai-humanoid-robotics/docs/foundations"
+                "permalink": "/docs/foundations"
               }
             },
             {
@@ -396,7 +396,7 @@
               "source": "@site/docs/nvidia-isaac.md",
               "sourceDirName": ".",
               "slug": "/nvidia-isaac",
-              "permalink": "/physical-ai-humanoid-robotics/docs/nvidia-isaac",
+              "permalink": "/docs/nvidia-isaac",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/nvidia-isaac.md",
@@ -409,11 +409,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Gazebo & Unity",
-                "permalink": "/physical-ai-humanoid-robotics/docs/gazebo-unity"
+                "permalink": "/docs/gazebo-unity"
               },
               "next": {
                 "title": "Humanoid Robotics",
-                "permalink": "/physical-ai-humanoid-robotics/docs/humanoid-robotics"
+                "permalink": "/docs/humanoid-robotics"
               }
             },
             {
@@ -423,7 +423,7 @@
               "source": "@site/docs/ros2.md",
               "sourceDirName": ".",
               "slug": "/ros2",
-              "permalink": "/physical-ai-humanoid-robotics/docs/ros2",
+              "permalink": "/docs/ros2",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ros2.md",
@@ -436,11 +436,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Foundations of Physical AI",
-                "permalink": "/physical-ai-humanoid-robotics/docs/foundations"
+                "permalink": "/docs/foundations"
               },
               "next": {
                 "title": "Gazebo & Unity",
-                "permalink": "/physical-ai-humanoid-robotics/docs/gazebo-unity"
+                "permalink": "/docs/gazebo-unity"
               }
             }
           ],
@@ -547,7 +547,7 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/physical-ai-humanoid-robotics/",
+        "permalink": "/",
         "source": "@site/src/pages/index.tsx"
       }
     ]

@@ -1,93 +1,93 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/physical-ai-humanoid-robotics/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/physical-ai-humanoid-robotics/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "architecture/edge-backend",
-              "path": "/physical-ai-humanoid-robotics/docs/architecture/edge-backend",
+              "path": "/docs/architecture/edge-backend",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "architecture/sim-rig-workflow",
-              "path": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow",
+              "path": "/docs/architecture/sim-rig-workflow",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "assessments/capstone-humanoid",
-              "path": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid",
+              "path": "/docs/assessments/capstone-humanoid",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "assessments/gazebo-project",
-              "path": "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project",
+              "path": "/docs/assessments/gazebo-project",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "assessments/isaac-pipeline",
-              "path": "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline",
+              "path": "/docs/assessments/isaac-pipeline",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "assessments/ros-project",
-              "path": "/physical-ai-humanoid-robotics/docs/assessments/ros-project",
+              "path": "/docs/assessments/ros-project",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "conversational-robotics",
-              "path": "/physical-ai-humanoid-robotics/docs/conversational-robotics",
+              "path": "/docs/conversational-robotics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "foundations",
-              "path": "/physical-ai-humanoid-robotics/docs/foundations",
+              "path": "/docs/foundations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "gazebo-unity",
-              "path": "/physical-ai-humanoid-robotics/docs/gazebo-unity",
+              "path": "/docs/gazebo-unity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "hardware/digital-twin-workstation",
-              "path": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation",
+              "path": "/docs/hardware/digital-twin-workstation",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "hardware/jetson-edge-kit",
-              "path": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit",
+              "path": "/docs/hardware/jetson-edge-kit",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "humanoid-robotics",
-              "path": "/physical-ai-humanoid-robotics/docs/humanoid-robotics",
+              "path": "/docs/humanoid-robotics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/physical-ai-humanoid-robotics/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction",
-              "path": "/physical-ai-humanoid-robotics/docs/introduction",
+              "path": "/docs/introduction",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "nvidia-isaac",
-              "path": "/physical-ai-humanoid-robotics/docs/nvidia-isaac",
+              "path": "/docs/nvidia-isaac",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "ros2",
-              "path": "/physical-ai-humanoid-robotics/docs/ros2",
+              "path": "/docs/ros2",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -95,7 +95,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/physical-ai-humanoid-robotics/docs/intro",
+                "path": "/docs/intro",
                 "label": "Introduction"
               }
             }

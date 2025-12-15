@@ -5,7 +5,7 @@
   "source": "@site/docs/hardware/digital-twin-workstation.md",
   "sourceDirName": "hardware",
   "slug": "/hardware/digital-twin-workstation",
-  "permalink": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation",
+  "permalink": "/docs/hardware/digital-twin-workstation",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/hardware/digital-twin-workstation.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Capstone Humanoid Robot",
-    "permalink": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid"
+    "permalink": "/docs/assessments/capstone-humanoid"
   },
   "next": {
     "title": "Jetson Edge Kit",
-    "permalink": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit"
+    "permalink": "/docs/hardware/jetson-edge-kit"
   }
 }

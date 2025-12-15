@@ -5,7 +5,7 @@
   "source": "@site/docs/conversational-robotics.md",
   "sourceDirName": ".",
   "slug": "/conversational-robotics",
-  "permalink": "/physical-ai-humanoid-robotics/docs/conversational-robotics",
+  "permalink": "/docs/conversational-robotics",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/conversational-robotics.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Humanoid Robotics",
-    "permalink": "/physical-ai-humanoid-robotics/docs/humanoid-robotics"
+    "permalink": "/docs/humanoid-robotics"
   },
   "next": {
     "title": "ROS 2 Project",
-    "permalink": "/physical-ai-humanoid-robotics/docs/assessments/ros-project"
+    "permalink": "/docs/assessments/ros-project"
   }
 }

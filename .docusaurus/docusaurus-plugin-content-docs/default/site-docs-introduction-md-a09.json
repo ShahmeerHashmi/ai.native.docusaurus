@@ -5,7 +5,7 @@
   "source": "@site/docs/introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",
-  "permalink": "/physical-ai-humanoid-robotics/docs/introduction",
+  "permalink": "/docs/introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/introduction.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Physical AI & Humanoid Robotics",
-    "permalink": "/physical-ai-humanoid-robotics/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Foundations of Physical AI",
-    "permalink": "/physical-ai-humanoid-robotics/docs/foundations"
+    "permalink": "/docs/foundations"
   }
 }

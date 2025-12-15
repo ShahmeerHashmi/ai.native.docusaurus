@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/physical-ai-humanoid-robotics/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
@@ -23,49 +23,49 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/physical-ai-humanoid-robotics/docs/introduction",
+            "href": "/docs/introduction",
             "docId": "introduction",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Foundations of Physical AI",
-            "href": "/physical-ai-humanoid-robotics/docs/foundations",
+            "href": "/docs/foundations",
             "docId": "foundations",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "ROS 2",
-            "href": "/physical-ai-humanoid-robotics/docs/ros2",
+            "href": "/docs/ros2",
             "docId": "ros2",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Gazebo & Unity",
-            "href": "/physical-ai-humanoid-robotics/docs/gazebo-unity",
+            "href": "/docs/gazebo-unity",
             "docId": "gazebo-unity",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "NVIDIA Isaac",
-            "href": "/physical-ai-humanoid-robotics/docs/nvidia-isaac",
+            "href": "/docs/nvidia-isaac",
             "docId": "nvidia-isaac",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Humanoid Robotics",
-            "href": "/physical-ai-humanoid-robotics/docs/humanoid-robotics",
+            "href": "/docs/humanoid-robotics",
             "docId": "humanoid-robotics",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Conversational Robotics",
-            "href": "/physical-ai-humanoid-robotics/docs/conversational-robotics",
+            "href": "/docs/conversational-robotics",
             "docId": "conversational-robotics",
             "unlisted": false
           }
@@ -80,28 +80,28 @@
           {
             "type": "link",
             "label": "ROS 2 Project",
-            "href": "/physical-ai-humanoid-robotics/docs/assessments/ros-project",
+            "href": "/docs/assessments/ros-project",
             "docId": "assessments/ros-project",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Gazebo Project",
-            "href": "/physical-ai-humanoid-robotics/docs/assessments/gazebo-project",
+            "href": "/docs/assessments/gazebo-project",
             "docId": "assessments/gazebo-project",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Isaac Pipeline",
-            "href": "/physical-ai-humanoid-robotics/docs/assessments/isaac-pipeline",
+            "href": "/docs/assessments/isaac-pipeline",
             "docId": "assessments/isaac-pipeline",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Capstone Humanoid Robot",
-            "href": "/physical-ai-humanoid-robotics/docs/assessments/capstone-humanoid",
+            "href": "/docs/assessments/capstone-humanoid",
             "docId": "assessments/capstone-humanoid",
             "unlisted": false
           }
@@ -116,28 +116,28 @@
           {
             "type": "link",
             "label": "Digital Twin Workstation",
-            "href": "/physical-ai-humanoid-robotics/docs/hardware/digital-twin-workstation",
+            "href": "/docs/hardware/digital-twin-workstation",
             "docId": "hardware/digital-twin-workstation",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Jetson Edge Kit",
-            "href": "/physical-ai-humanoid-robotics/docs/hardware/jetson-edge-kit",
+            "href": "/docs/hardware/jetson-edge-kit",
             "docId": "hardware/jetson-edge-kit",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Sim Rig Workflow",
-            "href": "/physical-ai-humanoid-robotics/docs/architecture/sim-rig-workflow",
+            "href": "/docs/architecture/sim-rig-workflow",
             "docId": "architecture/sim-rig-workflow",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Edge Backend",
-            "href": "/physical-ai-humanoid-robotics/docs/architecture/edge-backend",
+            "href": "/docs/architecture/edge-backend",
             "docId": "architecture/edge-backend",
             "unlisted": false
           }
