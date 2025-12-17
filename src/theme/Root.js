@@ -1,6 +1,9 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react';
 
 // Modern ChatPanel with glassmorphism and gradient design
+const STORAGE_KEY = 'ai-textbook-chat-history';
+const MAX_HISTORY_MESSAGES = 10; // Store last 10 messages in localStorage
+
 function ChatPanel({ selectedText, onClearSelection }) {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState([]);
@@ -8,6 +11,33 @@ function ChatPanel({ selectedText, onClearSelection }) {
   const [isLoading, setIsLoading] = useState(false);
   const messagesEndRef = useRef(null);
   const inputRef = useRef(null);
+
+  // Load messages from localStorage on mount
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    try {
+      const saved = localStorage.getItem(STORAGE_KEY);
+      if (saved) {
+        const parsed = JSON.parse(saved);
+        if (Array.isArray(parsed)) {
+          setMessages(parsed.slice(-MAX_HISTORY_MESSAGES));
+        }
+      }
+    } catch (e) {
+      // Ignore localStorage errors
+    }
+  }, []);
+
+  // Save messages to localStorage when they change
+  useEffect(() => {
+    if (typeof window === 'undefined' || messages.length === 0) return;
+    try {
+      const toSave = messages.slice(-MAX_HISTORY_MESSAGES);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(toSave));
+    } catch (e) {
+      // Ignore localStorage errors
+    }
+  }, [messages]);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -33,8 +63,15 @@ function ChatPanel({ selectedText, onClearSelection }) {
     setIsLoading(true);
 
     try {
+      // Prepare history for context (last 8 messages, exclude current)
+      const historyForApi = messages.slice(-8).map((m) => ({
+        role: m.role,
+        content: m.content,
+      }));
+
       const requestBody = {
         message: { content: userMessage },
+        history: historyForApi,
       };
 
       if (selectedText) {
@@ -131,6 +168,11 @@ function ChatPanel({ selectedText, onClearSelection }) {
 
   const clearChat = () => {
     setMessages([]);
+    try {
+      localStorage.removeItem(STORAGE_KEY);
+    } catch (e) {
+      // Ignore localStorage errors
+    }
   };
 
   // Styles object for the modern design
