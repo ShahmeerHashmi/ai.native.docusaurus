@@ -41,7 +41,7 @@ function ChatPanel({ selectedText, onClearSelection }) {
         requestBody.context = { selected_text: selectedText };
       }
 
-      const response = await fetch('http://127.0.0.1:8000/chatkit', {
+      const response = await fetch('https://ai-native-book-sand.vercel.app/chatkit', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(requestBody),
